@@ -1,2 +1,3 @@
 # class_demo
-class demo repository 
+This is a demostration repository to show how to use git for Stats21.
+ 
